@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+h1{
+    margin: 50px 0 0 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+a{
+    color: #11999E;
+}
+.top-container{
+    background-color: #CDDEFF;
+    padding: 100px 0 0 0;
+    position: relative;
+}
+.pro{
+    text-decoration: underline;
+}
+.second-heading{
+    margin-top: 0;
+    font-weight: normal;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.html-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chess-img{
+    width: 25%;
+    float: right;
+    margin-left: 5px;
+}
+hr{
+    border-top: 5px dotted;
+    color: grey;
+    width: 5%;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 20px;
+}
+.footer-link{
+    margin: 10px;
+}
+.btn{
+    display: inline-block;
+  text-decoration: none;
+  border: 2px solid #D9EDFF;
+  color: #339DFF;
+  font-size: 13px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 100px;
+  padding: 0 22px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  background: #fff;
+  width: 170px;
+	margin-right: 40px;
+}
+.contact-me{
+    padding: 50px;
+}
+.middle-container{
+    padding: 100px 0;
+}
+.skills{
+    padding-top: 10px;
+}
+.one{
+    margin: 100px auto;
+}
